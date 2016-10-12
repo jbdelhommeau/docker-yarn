@@ -46,3 +46,7 @@ Support for older versions (down to 1.6) is provided on a best-effort basis.
 Please see [the Docker installation
 documentation](https://docs.docker.com/installation/) for details on how to
 upgrade your Docker daemon.
+
+# Contribute
+
+Do not hesitate to contribute to this repository. Simply create a fork and pull request ;)
