@@ -2,7 +2,7 @@
 
 [![dockeri.co](http://dockeri.co/image/jbdelhommeau/docker-yarn)](https://hub.docker.com/r/jbdelhommeau/docker-yarn/)
 
-The official Yarn (Fast, reliable, and secure dependency management) image.
+The Yarn (Fast, reliable, and secure dependency management) image.
 
 ## What isYarn?
 
